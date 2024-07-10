@@ -29,7 +29,7 @@ public class GenerateSalary extends javax.swing.JFrame {
      * Creates new form GenerateSalary
      */
     private static final String USERNAME = "root";
-    private static final String PWD = "Murshidha";
+    private static final String PWD = "mmm";
     private static final String CONSTR = "jdbc:mysql://localhost:3306/spms";
     Connection dbcon = null;
     PreparedStatement ps = null;

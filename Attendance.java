@@ -32,7 +32,7 @@ public class Attendance extends javax.swing.JFrame {
      */
     
     private static final String USERNAME = "root";
-    private static final String PWD = "Murshidha";
+    private static final String PWD = "mmm";
     private static final String CONSTR = "jdbc:mysql://localhost:3306/spms";
     Connection dbcon = null;
     PreparedStatement ps = null;
